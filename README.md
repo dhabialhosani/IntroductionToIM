@@ -11,7 +11,7 @@ Here is a **bold** word.
 ## Slighty Smaller
 ##### Really Tiny
 ##### Image of my Homework
-![my homework][picture.jpg]
+![my homework][Alhosani, Dhabia - 4 Year Plan .jpeg]
 
 ###### Difficulties
 1. Difficulty #1
