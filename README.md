@@ -10,6 +10,9 @@ Here is a **bold** word.
 
 ## Slighty Smaller
 ##### Really Tiny
+##### Image of my Homework
+![my homework][picture.jpg]
+
 ###### Difficulties
 1. Difficulty #1
 2. Difficulty #2
