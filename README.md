@@ -12,7 +12,7 @@ Here is a **bold** word.
 ##### Really Tiny
 ##### Image of my Homework
 
-![my homework](Alhosani, Dhabia - 4 Year Plan .jpeg)
+![my homework](Screen Shot 2022-01-19 at 12.23.41 AM.png)
 
 ###### Difficulties
 1. Difficulty #1
