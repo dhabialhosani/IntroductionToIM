@@ -10,3 +10,7 @@ Here is a **bold** word.
 
 ## Slighty Smaller
 ##### Really Tiny
+###### Difficulties
+1. Difficulty #1
+2. Difficulty #2
+3. Difficulty #3
