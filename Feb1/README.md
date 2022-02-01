@@ -1,21 +1,15 @@
 # Self Portrait 
 
-Below is the self portrait I created on p5.js
-![
+####Below is the self portrait I created on p5.js
 
-This is another sentence in the first paragraph.
+![Portrait](https://user-images.githubusercontent.com/98512511/151918776-ed01aacf-a165-4c3d-8c01-ecc6a0a16cbd.png)
 
-This should be a second paragraph.
-This should be part of the second paragraph.
-
-Here is an *italicised* word.
-Here is a **bold** word.
+####
 
 ## Slighty Smaller
 ##### Really Tiny
 ##### Image of my Homework
 
-![my homework](Screen Shot 2022-01-19 at 12.23.41 AM.png)
 
 ###### Difficulties
 1. Difficulty #1
