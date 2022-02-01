@@ -1,10 +1,12 @@
 # Self Portrait 
 
-####Below is the self portrait I created on p5.js
+
+#### Below is the self portrait I created on p5.js
+
 
 ![Portrait](https://user-images.githubusercontent.com/98512511/151918776-ed01aacf-a165-4c3d-8c01-ecc6a0a16cbd.png)
 
-####
+#### Below is the self portrait I created on p5.js
 
 ## Slighty Smaller
 ##### Really Tiny
