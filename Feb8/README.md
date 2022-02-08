@@ -66,7 +66,7 @@ function draw()
 4. Creating variables that had random widths and heights assigned to them allowed me to create what I was picturing.
 5. I learnt that since I am not restricted by positions I no longer need to use nested loops, but rather a loop that runs its functions for as long as needed.
 6. Randomizing the fill also allowed me to produce a different graphical image with each run.
-##### The following is the image and code before randomizing the fill and positions and after:
+##### The following are the images and codes before randomizing the fills and positions and after:
 ###### Before:
 ![image](https://user-images.githubusercontent.com/98512511/152920959-7ea8adbd-8679-4c4b-b13a-427709f9b11f.png)
 ``` javascript 
