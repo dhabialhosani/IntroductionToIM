@@ -10,7 +10,7 @@
 1. The concept of creating while and for loops as a whole was a bit confusing to me so I had to search online for some inspiration. 
       The following video got me started with the basics: https://www.youtube.com/watch?v=1c1_TMdf8b8
       I followed the demonstration to create a simple drawing with multiple circles, and this was what I initially produced:
-```
+``` j5ps
 function setup() 
 {
   createCanvas(600, 400);
@@ -32,7 +32,7 @@ function draw()
   }
 }
 ```
-      ![Ellipses](https://user-images.githubusercontent.com/98512511/152916769-03f179de-da5a-4da0-a02e-f8d48f0f1712.png)
+![Ellipses](https://user-images.githubusercontent.com/98512511/152916769-03f179de-da5a-4da0-a02e-f8d48f0f1712.png)
       
 
       
