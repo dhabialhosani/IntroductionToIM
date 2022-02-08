@@ -5,6 +5,35 @@
 
 ![Graphic Art](https://user-images.githubusercontent.com/98512511/152915472-3a15de48-6a17-4307-8a1e-238776027b0c.png)
 
+```javascript
+
+function setup() 
+{
+  createCanvas(800, 800);
+  strokeWeight(0.5);
+  stroke(255);
+  background(0, 225, 225);
+  DrawFlower(); // Calling the DrawFlower function in the setup
+}
+
+  function DrawFlower() // Defining DrawFlower function with no parameters
+  {
+     for (i=0; i<=2000; i++) // For loop that runs its functions 2000 times 
+  {
+    RandX=random(width); // Assigning the value of randomized width size to variable 'RandX'
+    RandY=random(height);// Assigning the value of randomized height size to variable 'RandY'
+    fill(random(255), random(255), 255); 
+    ellipse(RandX,RandY,20,20); // Draw ellipse with random position W, and H, and size 20
+    ellipse(RandX-25,RandY-5,20,20); // Draw same ellipse but adjust location
+    ellipse(RandX-15,RandY+5,20,20);
+    ellipse(RandX-15,RandY-20,20,20);
+    ellipse(RandX,RandY-15,20,20);
+    fill(0); // Change fill 
+    ellipse(RandX-10,RandY-8,10,10);// Draw small center ellipse
+  }
+  }
+```
+
 
 #### Difficulties and Things I Learnt in the Process:
 1. The concept of creating while and for loops as a whole was a bit confusing to me so I had to search online for some inspiration. 
@@ -34,18 +63,35 @@ function draw()
 ```
 ![Ellipses](https://user-images.githubusercontent.com/98512511/152916769-03f179de-da5a-4da0-a02e-f8d48f0f1712.png)
       
-
       
-      
-      
-3. Having two identical drawings being reflected on each side of the face. 
-4. Working with the correct coordinates and positions. 
-5. Adding detail to the sketch.
+2. After understanding the idea behind the loops I tried to experiment with the ellipses. I faced difficulties in navigating the directions of the new ellipses, but eventually I was able to add an ellipse that overlpas the current one from the top left side. 
 
 
+``` javascript
+function setup() 
+{
+  createCanvas(600, 400);
+}
 
-I also learnt quite a lot as I was inspired by already done self portraits on j5ps:
-1. I learnt how to use the beginShape command.
-2. I learnt how to navigate the coordinates of the shapes.
-3. I learnt the importance of changing the fill and stroke as I worked. 
-4. While I did not use comments in this project, I realized how helpful they could be in terms of organizing the work. 
+function draw() 
+{
+  background(250);
+  strokeWeight(4);
+  stroke(0);
+
+  for (var x = 0; x <= width; x += 50) // For loop that runs another for loop for every value of 'x'
+  {
+    for (var y = 0; y <= height; y += 50) // For loop that draws an ellipse for every value of 'y' associated with 'x'
+    {
+      fill(200, 150, 100);
+      ellipse(x, y, 25, 25);
+      ellipse(x-10, y-15, 25, 25);
+    }
+  }
+}
+```
+![image](https://user-images.githubusercontent.com/98512511/152918195-59b636d8-34f7-48f9-ad49-98ec0863626b.png)
+
+3. I continued expirementing with position of the ellipses, and decided to randomize the position which was quite difficult as I attempted to randomize the values within the loops. I then created variables that had random widths and heights assigned to them and that allowed me to create what I was picturing.
+4. I learnt that since I am not restricted by positions I no longer need to use nested loops, but rather a loop that runs its functions for as long as needed.
+6. Randomizing the fill also allowed me to produce a different graphical image with each run.
