@@ -10,7 +10,7 @@
 1. The concept of creating while and for loops as a whole was a bit confusing to me so I had to search online for some inspiration. 
       The following video got me started with the basics: https://www.youtube.com/watch?v=1c1_TMdf8b8
       I followed the demonstration to create a simple drawing with multiple circles, and this was what I initially produced:
-``` java
+``` javascript
 function setup() 
 {
   createCanvas(600, 400);
