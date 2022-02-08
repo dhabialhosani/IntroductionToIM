@@ -5,36 +5,6 @@
 
 ![Graphic Art](https://user-images.githubusercontent.com/98512511/152915472-3a15de48-6a17-4307-8a1e-238776027b0c.png)
 
-```javascript
-
-function setup() 
-{
-  createCanvas(800, 800);
-  strokeWeight(0.5);
-  stroke(255);
-  background(0, 225, 225);
-  DrawFlower(); // Calling the DrawFlower function in the setup
-}
-
-  function DrawFlower() // Defining DrawFlower function with no parameters
-  {
-     for (i=0; i<=2000; i++) // For loop that runs its functions 2000 times 
-  {
-    RandX=random(width); // Assigning the value of randomized width size to variable 'RandX'
-    RandY=random(height);// Assigning the value of randomized height size to variable 'RandY'
-    fill(random(255), random(255), 255); 
-    ellipse(RandX,RandY,20,20); // Draw ellipse with random position RandX, and RandY, and size 20
-    ellipse(RandX-25,RandY-5,20,20); // Draw same ellipse but adjust location
-    ellipse(RandX-15,RandY+5,20,20);
-    ellipse(RandX-15,RandY-20,20,20);
-    ellipse(RandX,RandY-15,20,20);
-    fill(0); // Change fill 
-    ellipse(RandX-10,RandY-8,10,10);// Draw small center ellipse
-  }
-  }
-```
-
-
 #### Difficulties and Things I Learnt in the Process:
 1. The concept of creating while and for loops as a whole was a bit confusing to me so I had to search online for some inspiration. 
       The following video got me started with the basics: https://www.youtube.com/watch?v=1c1_TMdf8b8
