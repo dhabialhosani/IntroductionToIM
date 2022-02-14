@@ -41,6 +41,7 @@ function butterfly (x, y) {
   ellipse(x+25,y+40,35,30);
   ellipse(x,y+30,30,60);
 }
+```
 
 2. I faced difficulties in terms of having the butterflies move in vertical motion. I was able to resolve that by constantly updating the y position under the move method of the butterfly class. 
 3. I was not sure as to how to use the arrays, but once I got the hang of them they simplified my code very much. I got help from the following video to navigate the use of arrays: https://www.youtube.com/watch?v=VIQoUghHSxU
@@ -106,4 +107,5 @@ class Butterfly
   ellipse(this.x,this.y+30,30,60);
   }
 }
+```
 
