@@ -29,7 +29,6 @@ class Butterfly
     this.y = y;
     this.Direction = -1;
   	this.Velocity = 2;
-    this.speed = int(random(1, 100));
     this.Color = color(random(255),random(100),random(200));
   }
   move()
