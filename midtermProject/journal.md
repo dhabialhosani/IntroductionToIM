@@ -17,7 +17,7 @@ I am very fond of memory games, so for my midterm project I am planning on creat
 The displaying of cubes with different numbers should not be so difficult nor should advancing from one level to another be as those functions could be done using loops and random values (for the numbers). However, I believe a few elements might be tricky, first of all the idea of introducing a new cube with every level, as well as having the numbers appear for only a short while and then dissapear seems a bit confusing to me. 
 For the concept of time I watched Daniel Shiffman's video on the java script functions setTimeout() and setInterval() that allow me to trigger an action in the game at a given moment in time.
 https://www.youtube.com/watch?v=nGfTjA8qNDA
-Here is a very simple code I created, like that of Daniel Shiffman's, for the sake of familiarizing myself with the functions. Now that I have learnt how to use them, I believe I can start thinking of the most effective ways of incorprating them in my game. 
+Here is a very simple code I created for the sake of familiarizing myself with the functions. Now that I have learnt how to use them, I believe I can start thinking of the most effective ways of incorprating them in my game. 
 ``` javascript
 let Numbers = ['1', '2', '3', '4', '5'];
 let index =0;
