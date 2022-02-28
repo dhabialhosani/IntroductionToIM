@@ -4,10 +4,10 @@
 I am very fond of memory games, so for my midterm project I am planning on creating one. This game is a bit different than normal memory games, the way in which it is supposed to function is by initially displaying an instruction page. Once the user presses to start the game it displays 4 cubes numbered 1 through 4 randomly for a few seconds, the numbers on the cubes then dissapear and the user is to guess the correct pattern. With every correct answer the game is to display a more difficult level by introducing an extra cube and shortening the viewing time. 
 
 #### Planning:
-1- Display a number cubes
-2- Have numbers appear on cubes RANDOMLY
-3- Let numbers dissapear after a period of time 
-4- Allow user to click on cubes
+1. Display a number cubes
+2. Have numbers appear on cubes RANDOMLY
+3. Let numbers dissapear after a period of time 
+4. Allow user to click on cubes
 5- If the cube is clicked in correct order it must reveal the number, turn it green, and allow the user to continue.
 6- If the user manages to click all cubes in order, the game takes them to the next advanced level that follows same method.
 7- If the cube is clicked in an incorrect order all the numbers get revealed and the user gets to quit the game or replay. 
