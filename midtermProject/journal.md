@@ -1,7 +1,12 @@
 # Midterm Project
 
 ### Initial Concept for the Project:
-I am very fond of memory games, so for my midterm project I am planning on creating one. This game is a bit different than normal memory games, the way in which it is supposed to function is by initially displaying an instruction page. Once the user presses to start the game it displays 4 cubes numbered 1 through 4 randomly for a few seconds, the numbers on the cubes then dissapear and the user is to guess the correct pattern. With every correct answer the game is to display a more difficult level by introducing an extra cube and shortening the viewing time. 
+I am very fond of memory games, so for my midterm project I am planning on creating one. This game is a bit different than normal memory games, the way in which it is supposed to function is by initially displaying an instruction page. Once the user presses to start the game it displays 4 cubes numbered 1 through 4 randomly for a few seconds, the numbers on the cubes then dissapear and the user is to guess the correct pattern. With every correct answer the game is to display a more difficult level by introducing an extra cube and shortening the viewing time. In the end my game should look somewhat similar to this with additional elements of score, time, and perhaps extra images that distract the player to make the game even harder:
+
+
+https://user-images.githubusercontent.com/98512511/156076150-b4d0374b-d09c-4b22-92f9-31ca56d6d570.mov
+
+
 
 #### Planning:
 1. Display a number cubes
