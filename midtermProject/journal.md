@@ -8,11 +8,10 @@ I am very fond of memory games, so for my midterm project I am planning on creat
 2. Have numbers appear on cubes RANDOMLY
 3. Let numbers dissapear after a period of time 
 4. Allow user to click on cubes
-5- If the cube is clicked in correct order it must reveal the number, turn it green, and allow the user to continue.
-6- If the user manages to click all cubes in order, the game takes them to the next advanced level that follows same method.
-7- If the cube is clicked in an incorrect order all the numbers get revealed and the user gets to quit the game or replay. 
-8- Elements of time, score, and menu should be incorporated.
-The following tutorial helped me have an idea on how I could tackle such issues. 
+5. If the cube is clicked in correct order it must reveal the number, turn it green, and allow the user to continue.
+6. If the user manages to click all cubes in order, the game takes them to the next advanced level that follows same method.
+7. If the cube is clicked in an incorrect order all the numbers get revealed and the user gets to quit the game or replay. 
+8. Elements of time, score, and menu should be incorporated.
 
 #### Possible Difficulties:
 The displaying of cubes with different numbers should not be so difficult nor should advancing from one level to another be as those functions could be done using loops and random values (for the numbers). However, I believe a few elements might be tricky, first of all the idea of introducing a new cube with every level, as well as having the numbers appear for only a short while and then dissapear seems a bit confusing to me. 
