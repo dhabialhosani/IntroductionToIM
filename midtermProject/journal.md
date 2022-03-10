@@ -56,8 +56,14 @@ https://user-images.githubusercontent.com/98512511/156074632-53f2bb04-85a5-4f74-
 
 As for the next tricky part I expect to face in creating this project, I do not think there is a specific tutorial that can guide me through it, however the way I thought this issue could be resolved is by utilizing functions. I could set an if statement that runs if the player completes a level else it takes them to the main menu. This if statement, if returns true should call a function which is responsible for drawing the an extra cube next to the initial basic cubes, it should also be responsible for perhaps updating the number of cubes, so that with every time the function runs an extra cube is added to the current number. 
 
+#### Process:
 After proposing my idea I began working on the project, I tried taking it step by step but I was facing quite a lot of difficulties that I did not anticipate. First difficulty I faced was in terms of having the numbers appear on different blocks for every round. While this sounded easy to me, having the numbers be images made things a bit more complicated. Luckily I was able to make that to work by creating subsets for the array of images that I had. I made a subset for the first four, then the another subset for the first five, first six, etc. This worked well in allowing me to have the numbers appear on the blocks every time. As seen below this was a result of what I had initially done. 
+
+
 <img width="290" alt="Screen Shot 2022-03-10 at 7 58 32 AM" src="https://user-images.githubusercontent.com/98512511/157585826-bc7d04a4-f1aa-42e8-93f4-d1b6daeaa452.png">
+
+
+
 This however was not enough as I needed the numbers to appear randomly on the blocks every time. I attempted different techniques, but I struggled with one issue, that is, having the number appear only once while still having the numbers appear randomly. Below is part of my code for that initial project as well as a result of the code to show the issue in it. 
 ```javascript 
 for (let i = 0; i<=3; i++)
