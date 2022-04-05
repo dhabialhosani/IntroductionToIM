@@ -19,3 +19,4 @@ My idea was to create a game with the led lights and the Arduino board. I wanted
 
 ### Schematic
 
+![IMG_4343](https://user-images.githubusercontent.com/98512511/161670452-77bc22a0-a7ba-41c3-a70a-2e72cfa66945.jpg)
