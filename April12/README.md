@@ -2,7 +2,11 @@
 
 ## Below are images and a clip of the product we created for this assignment:
 
-https://user-images.githubusercontent.com/98512511/162846874-f837705c-1199-4b75-ad52-a8b8f97ebd4b.mov
+
+https://user-images.githubusercontent.com/98512511/162861089-29d36805-4f43-4a35-9ec5-f2f15425c842.mov
+
+
+
 ![IMG_4403](https://user-images.githubusercontent.com/98512511/162860772-da51fa98-ed40-4916-aa6a-10c30e49a7aa.jpg)
 ![IMG_4408](https://user-images.githubusercontent.com/98512511/162860783-775eba10-d901-467f-b538-bcf3309b0b97.jpg)
 
